@@ -94,5 +94,5 @@ docker run -p 8080:8080 -d -e SCHOLARETL__GROBID__URL=http://host.docker.interna
 
 The development of this software was supported by funding to the Blue Brain Project, a research center of the École polytechnique fédérale de Lausanne (EPFL), from the Swiss government’s ETH Board of the Swiss Federal Institutes of Technology.
 
-Copyright &copy; 2024 Blue Brain Project/EPFL
+Copyright &copy; 2024 Blue Brain Project/EPFL  
 Copyright &copy; 2025 Open Brain Institute
