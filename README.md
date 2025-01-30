@@ -89,8 +89,9 @@ If using docker, pass the server's URL as an environment variable.
 docker run -p 8080:8080 -d -e SCHOLARETL__GROBID__URL=http://host.docker.internal:8070 scholaretl:latest
 ```
 
+
 ## Funding and Acknowledgement
 
-The development of this software was supported by funding to the Blue Brain Project, a research center of the École polytechnique fédérale de Lausanne (EPFL), from the Swiss government’s ETH Board of the Swiss Federal Institutes of Technology.
+The development of this software was supported by funding to the Open Brain Institute, a research organization dedicated to open science and advancing neuroscience through collaborative innovation.
 
 Copyright &copy; 2025 Open Brain Institute
