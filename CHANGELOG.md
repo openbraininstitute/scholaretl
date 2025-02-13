@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [v0.0.6] - 30.10.2024
 
+### Fixed
+- Push to ECR prod+staging.
+
 ### Added
 - Auto push to ecr.
 
