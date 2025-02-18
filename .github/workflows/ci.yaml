@@ -19,7 +19,7 @@ jobs:
         with:
           access_token: ${{ github.token }}
       - name: Checkout latest commit
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0 # fetch all history with version tags
       - name: Set up python
@@ -55,7 +55,7 @@ jobs:
         with:
           access_token: ${{ github.token }}
       - name: Checkout latest commit
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0 # fetch all history with version tags
       - name: Set up python ${{ matrix.python-version }}
